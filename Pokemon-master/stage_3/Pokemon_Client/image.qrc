@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/label">
+        <file>Silver.png</file>
+        <file>Bronze.png</file>
+        <file>Gold.png</file>
+        <file>back.png</file>
+    </qresource>
+    <qresource prefix="/Pokemons">
+        <file>Bulbasaur.png</file>
+        <file>Caterpie.png</file>
+        <file>Charmeleon.png</file>
+        <file>Metapod.png</file>
+        <file>Pikachu.png</file>
+        <file>Rattata.png</file>
+        <file>Sandshrew.png</file>
+        <file>Spearow.png</file>
+        <file>Squirtle.png</file>
+        <file>Vulpix.png</file>
+        <file>Wartortle.png</file>
+        <file>Weedle.png</file>
+        <file>Ivysaur.png</file>
+        <file>Jigglypuff.png</file>
+        <file>Kakuna.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/back">
+        <file>Musci1.wav</file>
+    </qresource>
+</RCC>
